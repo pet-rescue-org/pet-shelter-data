@@ -1,18 +1,5 @@
 [
   {
-    "id": "announcement-1788202032914",
-    "title": "Jornada de Vacunación Gratuita: Tu Mascota se Merece lo Mejor",
-    "type": "general",
-    "description": "Programa / Iniciativa: Salud para Maracaibo (Alcaldía de Maracaibo - Salud Animal)\n\nDescripción breve: Jornada especial de vacunación gratuita para perros y gatos en el Parque Rafael Urdaneta. Bríndale a tu mascota la atención y protección que necesita para mantenerse sana y protegida.",
-    "date": "2026-11-22",
-    "time": "9:00 AM – 2:00 PM",
-    "location": "Parque Rafael Urdaneta (Punto de vacunación gratuita), Maracaibo",
-    "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788202032914.webp",
-    "is_active": true,
-    "created_at": "2026-08-31T18:47:12.913Z",
-    "updated_at": "2026-08-31T18:47:12.913Z"
-  },
-  {
     "id": "announcement-1788201831362",
     "title": "Gran Evento de Adopción de Mascotas",
     "type": "general",
