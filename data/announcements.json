@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "announcement-1788211994974",
+    "title": "Jornada de Vacunación Gratuita: Tu Mascota se Merece lo Mejor",
+    "type": "general",
+    "description": "Jornada especial de atención preventiva y vacunación gratuita para perros y gatos. Acércate con tu mascota para garantizar su esquema de salud al día y recibir orientación veterinaria básica.",
+    "date": "2026-09-20",
+    "time": "9:00 AM – 2:00 PM",
+    "location": "Parque Rafael Urdaneta, Maracaibo",
+    "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788211994974.webp",
+    "is_active": true,
+    "created_at": "2026-08-31T21:33:14.974Z",
+    "updated_at": "2026-08-31T21:33:14.974Z"
+  }
+]
