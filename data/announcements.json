@@ -1,0 +1,15 @@
+[
+  {
+    "id": "announcement-1788201831362",
+    "title": "Gran Evento de Adopción de Mascotas",
+    "type": "general",
+    "description": "Requisitos: Cédula, Entrevista y Compromiso de esterilización.\n\nDescripción breve: ¡Encuentra a tu mejor amigo! Acompáñanos a brindarles una segunda oportunidad y un hogar lleno de amor a perros y gatos mestizos y de raza.",
+    "date": "2026-12-11",
+    "time": "4:00 PM – 8:00 PM",
+    "location": "Parque Vereda del Lago, Maracaibo",
+    "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788201831362.webp",
+    "is_active": true,
+    "created_at": "2026-08-31T18:43:51.361Z",
+    "updated_at": "2026-08-31T18:43:51.361Z"
+  }
+]
