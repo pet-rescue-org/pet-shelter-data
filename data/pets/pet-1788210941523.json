@@ -1,0 +1,20 @@
+{
+  "id": "pet-1788210941523",
+  "nombre": "noah",
+  "especie": "perro",
+  "raza": "maltopoo",
+  "sexo": "hembra",
+  "tamano": "pequeno",
+  "edad_aproximada": "2 meses",
+  "peso_kg": 12,
+  "vacunado": true,
+  "esterilizado": false,
+  "desparasitado": true,
+  "descripcion": "Personalidad y temperamento: Dulce, cariñosa, juguetona y muy apegada a la familia. Es una perrita inteligente, sociable con personas y otros animales, ideal para vivir en casa o departamento.\n\nDescripción para adopción:\nNoah es una hermosa cachorrita Maltipoo lista para encontrar un hogar responsable y amoroso. Se caracteriza por su pelaje suave y esponjoso, su mirada tierna y su energía alegre. Le encanta jugar, recibir caricias y acompañarte en todo momento. Busca una familia comprometida con su crianza, cuidados veterinarios y mucho cariño.",
+  "estado": "disponible",
+  "destacado": true,
+  "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788210941523.webp",
+  "fotos_secundarias": [],
+  "created_at": "2026-08-31T21:15:43.272Z",
+  "updated_at": "2026-08-31T21:15:43.272Z"
+}
