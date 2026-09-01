@@ -3,7 +3,7 @@
     "id": "pet-1788210941523",
     "nombre": "noah",
     "especie": "perro",
-    "raza": "maltopoo",
+    "raza": "maltipoo",
     "sexo": "hembra",
     "tamano": "pequeno",
     "edad_aproximada": "2 meses",
@@ -17,6 +17,6 @@
     "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788210941523.webp",
     "fotos_secundarias": [],
     "created_at": "2026-08-31T21:15:43.272Z",
-    "updated_at": "2026-08-31T21:16:35.909Z"
+    "updated_at": "2026-09-01T16:32:49.513Z"
   }
 ]
