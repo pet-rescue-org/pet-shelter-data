@@ -1,0 +1,19 @@
+{
+  "id": "pet-1788268430482",
+  "nombre": "Mascota Test Inval",
+  "especie": "perro",
+  "raza": "",
+  "sexo": "macho",
+  "tamano": "",
+  "edad_aproximada": "",
+  "vacunado": false,
+  "esterilizado": false,
+  "desparasitado": false,
+  "descripcion": "",
+  "estado": "disponible",
+  "destacado": false,
+  "imagen_principal": "",
+  "fotos_secundarias": [],
+  "created_at": "2026-09-01T13:13:50.846Z",
+  "updated_at": "2026-09-01T13:13:50.846Z"
+}
