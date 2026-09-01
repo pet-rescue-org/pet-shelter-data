@@ -1,5 +1,18 @@
 [
   {
+    "id": "announcement-1788271986831",
+    "title": "Jornada de Adopción Test 1788271985252",
+    "type": "general",
+    "description": "Ven a adoptar a tu nuevo mejor amigo.",
+    "date": "2026-09-01",
+    "time": "",
+    "location": "",
+    "image_url": "",
+    "is_active": true,
+    "created_at": "2026-09-01T14:13:06.830Z",
+    "updated_at": "2026-09-01T14:13:06.830Z"
+  },
+  {
     "id": "announcement-1788212120821",
     "title": "Evento de Adopción de Mascotas",
     "type": "adopcion",
