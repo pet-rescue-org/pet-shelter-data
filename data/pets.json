@@ -58,5 +58,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:13:50.376Z",
     "updated_at": "2026-09-02T17:13:50.376Z"
+  },
+  {
+    "id": "pet-1788369234091",
+    "nombre": "Rocky",
+    "especie": "perro",
+    "raza": "Mestizo / Terrier",
+    "sexo": "macho",
+    "tamano": "mediano",
+    "edad_aproximada": "3 años",
+    "peso_kg": 15,
+    "vacunado": true,
+    "esterilizado": true,
+    "desparasitado": true,
+    "descripcion": "El perro guardián perfecto. Muy inteligente y aprende comandos con facilidad.",
+    "estado": "disponible",
+    "destacado": true,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369234091.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-02T17:13:56.143Z",
+    "updated_at": "2026-09-02T17:13:56.143Z"
   }
 ]
