@@ -1,0 +1,13 @@
+{
+  "id": "announcement-1788369302817",
+  "title": "Taller de Adiestramiento Canino",
+  "type": "evento",
+  "description": "Aprende técnicas amables. Obediencia básica y vínculo con refuerzo positivo.",
+  "date": "22 de Octubre, 2026",
+  "time": "10:00 AM - 01:00 PM",
+  "location": "Polideportivo",
+  "image_url": "",
+  "is_active": true,
+  "created_at": "2026-09-02T17:15:02.817Z",
+  "updated_at": "2026-09-02T17:15:02.817Z"
+}
