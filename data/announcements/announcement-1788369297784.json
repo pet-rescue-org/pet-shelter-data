@@ -6,7 +6,7 @@
   "date": "15 de Octubre, 2026",
   "time": "09:00 AM - 02:00 PM",
   "location": "Parque Central",
-  "image_url": "",
+  "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788369297784.webp",
   "is_active": true,
   "created_at": "2026-09-02T17:14:57.784Z",
   "updated_at": "2026-09-02T17:14:57.784Z"

@@ -6,7 +6,7 @@
   "date": "12 de Noviembre, 2026",
   "time": "08:00 AM - 05:00 PM",
   "location": "Centro Comunitario",
-  "image_url": "",
+  "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788369316069.webp",
   "is_active": true,
   "created_at": "2026-09-02T17:15:16.068Z",
   "updated_at": "2026-09-02T17:15:16.068Z"
