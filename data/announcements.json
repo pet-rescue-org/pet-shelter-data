@@ -54,7 +54,7 @@
   {
     "id": "announcement-1788369297784",
     "title": "Jornada de Vacunación Antirrábica",
-    "type": "adopcion",
+    "type": "evento",
     "description": "Protege a tu mascota. Estaremos aplicando vacunas antirrábicas gratuitas.",
     "date": "2026-10-15",
     "time": "09:00 AM - 02:00 PM",
@@ -62,7 +62,7 @@
     "image_url": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/announcements/announcement-1788369297784.webp",
     "is_active": true,
     "created_at": "2026-09-02T17:14:57.784Z",
-    "updated_at": "2026-09-02T22:24:14.439Z"
+    "updated_at": "2026-09-02T22:31:17.032Z"
   },
   {
     "id": "announcement-1788212120821",
