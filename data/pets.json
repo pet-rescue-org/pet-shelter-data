@@ -78,5 +78,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:13:56.143Z",
     "updated_at": "2026-09-02T17:13:56.143Z"
+  },
+  {
+    "id": "pet-1788369239623",
+    "nombre": "Bella",
+    "especie": "perro",
+    "raza": "Labrador Mix",
+    "sexo": "hembra",
+    "tamano": "mediano",
+    "edad_aproximada": "4 meses",
+    "peso_kg": 8,
+    "vacunado": true,
+    "esterilizado": false,
+    "desparasitado": true,
+    "descripcion": "Cachorra juguetona. Está en la etapa ideal para ser entrenada como perro de familia.",
+    "estado": "disponible",
+    "destacado": false,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369239623.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-02T17:14:01.489Z",
+    "updated_at": "2026-09-02T17:14:01.489Z"
   }
 ]
