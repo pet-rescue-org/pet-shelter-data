@@ -178,5 +178,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:14:25.726Z",
     "updated_at": "2026-09-02T17:14:25.726Z"
+  },
+  {
+    "id": "pet-1788369269263",
+    "nombre": "Nala",
+    "especie": "perro",
+    "raza": "Mestizo Mediano",
+    "sexo": "hembra",
+    "tamano": "mediano",
+    "edad_aproximada": "8 meses",
+    "peso_kg": 14,
+    "vacunado": true,
+    "esterilizado": true,
+    "desparasitado": true,
+    "descripcion": "Rescatada de las calles, sumamente cariñosa y agradecida. Le encanta dar besos.",
+    "estado": "disponible",
+    "destacado": false,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369269263.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-02T17:14:31.068Z",
+    "updated_at": "2026-09-02T17:14:31.068Z"
   }
 ]
