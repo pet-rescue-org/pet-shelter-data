@@ -1,5 +1,18 @@
 [
   {
+    "id": "announcement-1788369312024",
+    "title": "Colecta Solidaria de Alimento",
+    "type": "general",
+    "description": "Nuestros peluditos necesitan ayuda. Recolectamos alimento, mantas y limpieza.",
+    "date": "05 de Noviembre, 2026",
+    "time": "Todo el día",
+    "location": "Refugio",
+    "image_url": "",
+    "is_active": true,
+    "created_at": "2026-09-02T17:15:12.024Z",
+    "updated_at": "2026-09-02T17:15:12.024Z"
+  },
+  {
     "id": "announcement-1788369307533",
     "title": "Feria de Adopción Fin de Semana",
     "type": "adopcion",
