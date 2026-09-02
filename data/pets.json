@@ -158,5 +158,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:14:19.984Z",
     "updated_at": "2026-09-02T17:14:19.984Z"
+  },
+  {
+    "id": "pet-1788369263606",
+    "nombre": "Leo",
+    "especie": "gato",
+    "raza": "Tuxedo",
+    "sexo": "macho",
+    "tamano": "mediano",
+    "edad_aproximada": "3 años",
+    "peso_kg": 5,
+    "vacunado": true,
+    "esterilizado": true,
+    "desparasitado": true,
+    "descripcion": "Muy educado, usa su arenero sin falta y tiene maullidos muy suaves.",
+    "estado": "disponible",
+    "destacado": false,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369263606.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-02T17:14:25.726Z",
+    "updated_at": "2026-09-02T17:14:25.726Z"
   }
 ]
