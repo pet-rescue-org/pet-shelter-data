@@ -1,5 +1,18 @@
 [
   {
+    "id": "announcement-1788358836081",
+    "title": "Jornada de Adopción Test 1788358832329",
+    "type": "general",
+    "description": "Ven a adoptar a tu nuevo mejor amigo.",
+    "date": "2026-09-02",
+    "time": "",
+    "location": "",
+    "image_url": "",
+    "is_active": true,
+    "created_at": "2026-09-02T14:20:36.080Z",
+    "updated_at": "2026-09-02T14:20:36.080Z"
+  },
+  {
     "id": "announcement-1788358825606",
     "title": "Jornada de Adopción Test 1788358822711",
     "type": "general",
