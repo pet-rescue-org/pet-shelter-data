@@ -1,5 +1,18 @@
 [
   {
+    "id": "announcement-1788369307533",
+    "title": "Feria de Adopción Fin de Semana",
+    "type": "adopcion",
+    "description": "Tendremos más de 20 perritos listos. Stands informativos y recolección de fondos.",
+    "date": "29 de Octubre, 2026",
+    "time": "11:00 AM - 04:00 PM",
+    "location": "Plaza Mayor",
+    "image_url": "",
+    "is_active": true,
+    "created_at": "2026-09-02T17:15:07.533Z",
+    "updated_at": "2026-09-02T17:15:07.533Z"
+  },
+  {
     "id": "announcement-1788369302817",
     "title": "Taller de Adiestramiento Canino",
     "type": "evento",
