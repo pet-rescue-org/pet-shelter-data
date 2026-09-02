@@ -98,5 +98,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:14:01.489Z",
     "updated_at": "2026-09-02T17:14:01.489Z"
+  },
+  {
+    "id": "pet-1788369245752",
+    "nombre": "Milo",
+    "especie": "gato",
+    "raza": "Naranja / Tabby",
+    "sexo": "macho",
+    "tamano": "mediano",
+    "edad_aproximada": "2 años",
+    "peso_kg": 5,
+    "vacunado": true,
+    "esterilizado": true,
+    "desparasitado": true,
+    "descripcion": "Gato tranquilo e independiente. Disfruta de largas siestas al sol. Ideal para departamentos.",
+    "estado": "disponible",
+    "destacado": false,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369245752.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-02T17:14:07.705Z",
+    "updated_at": "2026-09-02T17:14:07.705Z"
   }
 ]
