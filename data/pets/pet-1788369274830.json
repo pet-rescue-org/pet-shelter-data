@@ -1,0 +1,20 @@
+{
+  "id": "pet-1788369274830",
+  "nombre": "Nina",
+  "especie": "gato",
+  "raza": "Calicó",
+  "sexo": "hembra",
+  "tamano": "mediano",
+  "edad_aproximada": "1 año",
+  "peso_kg": 4,
+  "vacunado": true,
+  "esterilizado": true,
+  "desparasitado": true,
+  "descripcion": "Una gatita curiosa, siempre observando por la ventana. Le gustan los mimos en la barbilla.",
+  "estado": "disponible",
+  "destacado": true,
+  "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369274830.webp",
+  "fotos_secundarias": [],
+  "created_at": "2026-09-02T17:14:36.517Z",
+  "updated_at": "2026-09-02T17:14:36.517Z"
+}
