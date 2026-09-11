@@ -258,5 +258,25 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-02T17:14:53.538Z",
     "updated_at": "2026-09-02T17:14:53.538Z"
+  },
+  {
+    "id": "pet-1789119184765",
+    "nombre": "Noah",
+    "especie": "perro",
+    "raza": "Maltipoo ",
+    "sexo": "hembra",
+    "tamano": "pequeno",
+    "edad_aproximada": "2 meses ",
+    "peso_kg": 8,
+    "vacunado": true,
+    "esterilizado": false,
+    "desparasitado": true,
+    "descripcion": "¡Hola! 😊 Vamos a crear una descripción encantadora para Noah, tu adorable maltipoo de dos meses. Este pequeño amigo es una mezcla perfecta de maltes y poodle, combinando lo mejor de ambas razas. Con su pelaje suave y esponjoso, Noah es tan tierno que querrás abrazarlo todo el día. A su corta edad, ya muestra una personalidad juguetona y curiosa, siempre listo para explorar su entorno. ¡Noah es una bolita de energía y amor que traerá mucha alegría a tu hogar! ¿No es maravilloso? 😊",
+    "estado": "disponible",
+    "destacado": true,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1789119184765.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-11T09:33:06.272Z",
+    "updated_at": "2026-09-11T09:33:06.272Z"
   }
 ]
