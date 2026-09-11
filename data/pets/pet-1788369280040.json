@@ -1,0 +1,20 @@
+{
+  "id": "pet-1788369280040",
+  "nombre": "Thor",
+  "especie": "perro",
+  "raza": "Pastor Alemán Mix",
+  "sexo": "macho",
+  "tamano": "grande",
+  "edad_aproximada": "4 años",
+  "peso_kg": 30,
+  "vacunado": true,
+  "esterilizado": true,
+  "desparasitado": true,
+  "descripcion": "Majestuoso, protector pero muy noble. Se lleva excelente con niños mayores.",
+  "estado": "disponible",
+  "destacado": false,
+  "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1788369280040.webp",
+  "fotos_secundarias": [],
+  "created_at": "2026-09-02T17:14:41.705Z",
+  "updated_at": "2026-09-02T17:14:41.705Z"
+}
