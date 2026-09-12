@@ -278,5 +278,24 @@
     "fotos_secundarias": [],
     "created_at": "2026-09-11T09:33:06.272Z",
     "updated_at": "2026-09-11T10:08:04.485Z"
+  },
+  {
+    "id": "pet-1789202664985",
+    "nombre": "tesst",
+    "especie": "perro",
+    "raza": "",
+    "sexo": "macho",
+    "tamano": "",
+    "edad_aproximada": "",
+    "vacunado": false,
+    "esterilizado": false,
+    "desparasitado": false,
+    "descripcion": "",
+    "estado": "disponible",
+    "destacado": true,
+    "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1789202664985-1789202665117.webp",
+    "fotos_secundarias": [],
+    "created_at": "2026-09-12T08:44:25.891Z",
+    "updated_at": "2026-09-12T08:44:25.891Z"
   }
 ]
