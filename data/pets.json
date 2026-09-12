@@ -281,7 +281,7 @@
   },
   {
     "id": "pet-1789202664985",
-    "nombre": "tesst",
+    "nombre": "tesst424",
     "especie": "perro",
     "raza": "",
     "sexo": "macho",
@@ -296,6 +296,6 @@
     "imagen_principal": "https://cdn.jsdelivr.net/gh/pet-rescue-org/pet-shelter-data@main/images/pets/pet-1789202664985-1789202665117.webp",
     "fotos_secundarias": [],
     "created_at": "2026-09-12T08:44:25.891Z",
-    "updated_at": "2026-09-12T08:44:25.891Z"
+    "updated_at": "2026-09-12T08:44:39.525Z"
   }
 ]
